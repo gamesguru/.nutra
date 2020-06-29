@@ -1,0 +1,21 @@
+--Breakfast--
+--rice
+USDAstock|20545|500
+--ground turkey
+USDAstock|5306|400
+--ground beef, 80/20
+USDAstock|23572|400
+--chicken liver
+USDAstock|5028|400
+--chicken breast
+USDAstock|5065|400
+--canned mackerel
+USDAstock|15048|400
+--Pumpkin, canned, without salt
+USDAstock|11424|800
+--Peas, green, frozen, cooked, boiled, drained, without salt
+USDAstock|11313|400
+--broccoli
+USDAstock|11091|400
+--Lunch--
+--Dinner--
