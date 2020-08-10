@@ -1,4 +1,4 @@
-name,value,required,notes
-DEBUG,1,Yes,
-VERBOSITY,0,Yes,
-SEARCH_LIMIT,,No,"Lines to print out on terminal screen, override default buffer but not ""-f"" flag"
+name,value,required,default,notes
+DEBUG,1,Yes,,
+VERBOSITY,0,Yes,,
+SEARCH_LIMIT,,No,100,"Lines to print out on terminal screen, override default buffer but not ""-f"" flag"
