@@ -1,4 +1,5 @@
 
 .~*
-nutra.db
-nutra.db.tar.xz
+*.db
+*.zip
+*.tar.xz
