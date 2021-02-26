@@ -1,0 +1,8 @@
+{
+    "email": "nutradigest@gmail.com",
+    "current_user": 1,
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiYXV0aC1sZXZlbCI6MjAsImV4cGlyZXMiOjE5MTU5ODQyMjl9.L66fkA-9Yq6Y0AhqlEuZh8w1Hh0BJGkNjAJHv71kOHY",
+    "NUTRA_CLI_OVERRIDE_LOCAL_SERVER_HOST": "http://127.0.0.1:20000",
+    "NUTRA_CLI_NO_ARGS_INJECT_MOCKS": true,
+    "VERBOSITY": 1
+}
